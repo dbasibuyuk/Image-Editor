@@ -12,3 +12,8 @@ Under Scripts Menu , You can apply :
 - Convert to grayscale
 
 - Sum 2 images (pixel by pixel)
+
+
+Example of the Menu :
+
+<img src = "https://github.com/dbasibuyuk/ImageEditor/blob/master/menuExample.png?raw=true">
